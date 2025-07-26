@@ -12,8 +12,8 @@
 }
 .header{
     grid-area: header;
-    background: #333;
-    color: white;
+    background: #007bff;
+    color: #ff4d4d;
     display: flex;
     align-items: center;
     padding: 0 20px;
